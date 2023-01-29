@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(63, 31, 243);
+}
+.main{
+    background-color: white;
+    margin: 0 450px 0 450px;
+    padding: 20px 20px 20px 20px
+}
+.button{
+    background-color: #533ca3;
+    border: none;
+    color: white;
+    padding: 10px 165px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+p{
+    color: #4731bf;
+    padding-left: 75px;
+}
+.input1{
+    height: 30px;
+}

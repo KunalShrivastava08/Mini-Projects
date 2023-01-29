@@ -1,0 +1,49 @@
+.main_body{
+   
+    margin-left: 30%;
+    margin-right: 45%;
+    /* padding: 44px; */
+    padding-left: 35px;
+    padding-bottom: 60px;
+    background-color: white;
+    box-shadow: 10px 10px rgb(229 225 225);
+}
+.description{
+    padding-right: 32px;
+    padding-bottom: 17px;
+    text-align: center;
+}
+.footer{
+    padding-left: 15%;
+}
+img{
+    border-radius: 50%;
+    height: 123px;
+    width: 123px
+}
+.image{
+    margin-left: 25%;
+    /* margin-top: 1px; */
+    padding-top: 25px;
+}
+
+h5{
+    margin-top: -20px;
+}
+h4{
+    color: orange;
+}
+#fb{
+    margin-right: 25%;
+    color: red;
+}
+#insta{
+    color: red;
+}
+#twitter{
+    margin-right: 25%;
+    color: red;
+}
+body{
+    background-color: lavender;
+}
