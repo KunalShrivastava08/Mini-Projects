@@ -1,0 +1,103 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPym_tYmCcl3HoozLfr6ZbDyT6hInYHUj9Q&usqp=CAU');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+.download{
+    height: 0%;
+    width: 66%;
+    margin-top: 3%;
+    margin-left: 20px;
+    background-color: #ebe083;
+    padding: 2px 25px 2px 25px;
+    border: 1px solid rgb(58, 58, 241);
+}
+.registrtionForm{
+    float: right;
+    height: 80%;
+    width: 19%;
+    margin-top: 3%;
+    background-color: #ebe083;
+    padding: 20px;
+    margin-right: 5%;
+}
+.formHead{
+    background-color: #835900;
+    color: #ebe083;
+    margin-top: -18px;
+    /* size: a3; */
+    text-size-adjust: 43;
+    font-size: 25px;
+    margin-right: -18px;
+    margin-left: -18px;
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    color: #835900;
+}
+.header{
+    height: 90px;
+    width: 100%;
+    background-color: #835900;
+    padding-top: 35px;
+    padding-left: 10px;
+    padding-right: -12px;
+    
+}
+span{
+    color: blue;
+}
+.inner_header{
+    color: #ebe083;
+    /* padding-left: 20px; */
+    padding-left: 12px;
+    /* margin-left: -5px; */
+    margin-top: -30px;;
+    height: 111%;
+    width: 96%;
+    border: dotted;
+    border-color: #f7f4dd24;
+
+}
+.innerContainer{
+    margin-top: -24px;
+    padding: 1px;
+}
+button{
+    height: 42px;
+    width: 236px;
+    background-color: #835900;
+    color: #ebe083;
+    /* border-radius: 18%; */
+    border-radius: 12px;
+    margin-top: 15px;
+}
+td{
+    padding: 5px
+}
+.data{
+    height: 30px;
+    width: 236px;
+}
+.selectData{
+    height: 30px;
+    width: 243px;
+}
+.blueButton{
+    background-color: rgb(58, 58, 241);
+    height: 25px;
+    width: 60px;
+    border-radius: 2px;
+    margin-top: 0px;
+    margin-left: 66.8%;
+}
+.header1{
+    margin-top: 0px;
+    margin-bottom: -5px;
+}
