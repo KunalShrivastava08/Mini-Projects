@@ -1,0 +1,19 @@
+.con{
+    display: grid;
+    grid-template-rows: repeat(2,auto);
+    height: 100vh;
+    width: 100vw;
+}
+.div1{
+    background-color: aqua;
+    border: 1px solid #1a1919;
+}
+.div2{
+    background-color: blueviolet;
+    border: 1px solid #1a1919;
+
+}
+.div3{
+    background-color: brown;
+    border: 1px solid #1a1919;
+}
